@@ -1,1 +1,2 @@
 code edit
+if (this.code == true)    beSurprised();
